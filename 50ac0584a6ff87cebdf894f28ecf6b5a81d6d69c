@@ -1,0 +1,4 @@
+{"id":"6022939d-1561-4bb7-882e-69f14b75746f","ts":"2026-05-07T07:24:51.994Z","path":"/home/sabitha/zostools/zopen_sabi/bashport/stable-patches/tests/encodefilevars.tests.patch","version":"1.0.0","taskID":"092017d0-339f-4ddf-a162-4cb674181337"}
+{"id":"af246a23-c1e7-403b-99f2-ab85f083daa2","ts":"2026-05-07T07:25:02.064Z","path":"/home/sabitha/zostools/zopen_sabi/bashport/stable-patches/tests/encodefilevars.right.patch","version":"1.0.0","taskID":"092017d0-339f-4ddf-a162-4cb674181337"}
+{"id":"a082def0-3319-4a40-a32e-83531d0d3bff","ts":"2026-05-07T07:25:08.867Z","path":"/home/sabitha/zostools/zopen_sabi/bashport/stable-patches/tests/run-encodefilevars.patch","version":"1.0.0","taskID":"092017d0-339f-4ddf-a162-4cb674181337"}
+{"id":"042c1fbc-a8e7-48da-b1f1-05f35f917ae7","ts":"2026-05-07T07:25:39.336Z","path":"/home/sabitha/zostools/zopen_sabi/bashport/stable-patches/MANIFEST.patch","version":"1.0.0","taskID":"092017d0-339f-4ddf-a162-4cb674181337"}
